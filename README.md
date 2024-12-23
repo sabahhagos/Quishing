@@ -107,10 +107,9 @@ Random Forest's robust handling of non-linear relationships and its resilience a
 ### **Contact**  
 
 For questions or collaboration, feel free to contact:  
-**Name**: [Sabah Hagos
+**Name**: Sabah Hagos
 **Email**: sabah.hagos17@gmail.com
 **Institution**: Fordham University
 
 ---
 
-This project demonstrates the effectiveness of machine learning techniques in addressing modern cybersecurity challenges, specifically mitigating risks associated with QR code phishing.
